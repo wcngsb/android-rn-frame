@@ -1,2 +1,2 @@
-# android-rn-frame
-android快速开发框架，可兼容RN开发
+# native-mc-base-util
+美菜android基础&amp;&amp;工具库

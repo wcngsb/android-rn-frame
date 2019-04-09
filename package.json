@@ -1,0 +1,14 @@
+{
+  "name": "native-ms-base-util",
+  "version": "0.0.1",
+  "description": "base for native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meicai-fe/native-mc-base-util.git"
+  },
+  "author": "meicai",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
